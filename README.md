@@ -1,2 +1,2 @@
-***version-control-exercises**
--trying the tutorial
+**version-control-exercises**
+- trying the tutorial
